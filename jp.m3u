@@ -1,5 +1,7 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_JP1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_JP2.xml.gz,https://epg.djtmewibu.com/jcom.xml" tvg-shift=0 m3uautoload=1
 
+#EXTINF:-1 tvg-id="" tvg-name="URLARU" tvg-logo="https://pbs.twimg.com/profile_images/1209053168870416389/lFgBlkWY_400x400.jpg" group-title="日本",日テレNEWS24
+https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
 #MAIN DTV1 (720p)
 
 #EXTINF:-1 tvg-id="ＮＨＫ総合１・東京.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="DTV1 (720P)",NHK総合 東京 (720p Willfon)
